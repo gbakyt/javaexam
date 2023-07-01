@@ -1,0 +1,8 @@
+server:
+  port: 9000
+
+throttling:
+  limit:
+    minutes: 1
+    requests: 5
+
